@@ -1,0 +1,44 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##BWB@####BBBBBBBBBBB#####@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BWWBBB##@@@##############@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#BBB###BWWWWBB##BBBBWWB##BBBBBBBBBBWB#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@#BBBB###BBBWWWWWWWWBBBWWWW88888WWWW8888888WW8888W#@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@#BB#######BBWWWWWWWBBBBBBWWWW8888888888888888888888888W@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@#B########BBBWWWWWWWBBBBBBWWW888888888888888888888888888888W@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@###########BBBWWWWWW8WBBBBBB888888888888888888888NNNNNNN88NNNNN8#@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@#############BBWWWWWWWWBBBBBBBW888888888888888888888NNNNNNNN8NNNNNN8#@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@##############BBWWWWWWWWBBBBBBBBWW8888888888888888888888NNNNNNNNNNNNNN88#@@@@@@@@@@@@
+@@@@@@@@@@@@@@###############BWWWWWWWWWBBBBBBBWWWW888888888888NNNNNNNN8NNNNNNNNNNNNNNN88W@@@@@@@@@@@
+@@@@@@@@@@@@###############BWWWWWWWWWWWWWWWWWWWWWWW88888NNNNN&&&^^^^^^&&&NNNNNNNNNNNNNNN88@@@@@@@@@@
+@@@@@@@@@@@######W#@####BBBWWWWWWWWWWWWWWWWWWWWWWWWW888NN&&^^^/rr+++**+^WBB##@#@@@#8NNNN888#@@@@@@@@
+@@@@@@@@@@#######8@@@@@@@@@@@@@@@#BBWWBBBBBBBWWWWWWWW88N^r^///^8B@@@@@@@@@@@@@@@@@@@88888888B@@@@@@@
+@@@@@@@@@@######B@@#BBBBBBBBBBBBBBB###@@@@#BWWWWWWWWW88Nr /@@@@@@@@@@@@@@@@@@@@@@@@@B8888888W#@@@@@@
+@@@@@@@@@@@@@@@@#@#BBBBBBBBBBBBBBBBBBBBBBB@BBWWWWWWWWW8N+ /@#@@@@@@@@@@@@@@@@@@@@@@@@88888888W@@@@@@
+@@@@@@@@@@@@@@@@#@BBBBWWWWWWWWWWWWWWWWWBBB@BBWWWWWWWWWW8+ N#######@@@@@@@@@@@@@@@@@@@W88888888W@@@@@
+@@@@@@@@@@@@@@@BW#BWWWWWWWWWWWWWWWWWWWWWWW@BBBWWWWWWWWWN//B############@@@@@@@@@@@@@B888888888WB@@@@
+@@@@@@@@@@@@@@@@WWW#WWWWWWWWWWWWWWWWWWWWWW##BBBWWBB#@@@8NN@BBB##########@@@@@@@@@@@B8888888888WB@@@@
+@@@@@@@@@@@@@@@@#WWW#B8888888888888WWWWW#@@#BBB@#BWWWB#@N8WW@#BB########@@@@@@@@@B888888888888WW@@@@
+@@@@@@@@@@@@@@@@###WWW##W8888888888888#@@#BBBB@#WWWWWWW@BWWWWW@#BB######@@@####B88888888888888WWB###
+##@@@@@@@@@@@@@@####BWWWWWB##W8NNNN8#@@#BBBBB@#WWWWWWWWB@WWWWWWW####@@####BW88888888WWW88888888W####
+#@@@@@@@@@@@@@@@@#######BBBBWWWWB#@@@######B@#8WWWWWWWWW#BWWWWWWWW##BBWWWWWWWWWWWW8WWWWWWWWWWWWB####
+##@@@@@@@@@@@@@@@@###############B#########@#NN88WWWWWWWW@WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWB@#BB
+##@@@@@@@@@@@@@@@@########################@#/^NN8WWWWWWWWB#WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWB#@BBB
+##@@@@@@@@@@@@@@@@@@#####################@@#B####BBBWWWWB#@BBBBBBBBBBWWWWWWWWWWWWWWWWWWWWWWWWWB#@BBB
+##@@@@@@@@@@@@@@@@@@@@######################BBBBBBBBBBBBB##BBBBBBBBBBBBBBBBBWWWWWWWWWWWWWWBBBB#@BBBB
+###@@@@@@@@@@@@@@@@@@@@@##########################BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBWWWBBBBBBBB#@#BBBB
+####@@@@@@@@@@@@@@@@@@@@@@@##########################BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB####BBBB#@@BBBBB
+BBBB@@@@@@@@@@@@@@@@@@@@@@@@@@@#######################BBBBBBBBBBBBBBBBBBBBBBBBBBBBB#########@@BBBBBB
+BBBB#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@###########BBBBBBBBBBBBBBBBBBBBBBBBBBBB#########@@BBBBBBB
+BBBBB#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#########BBBBBBBBBBBBBBBBBBB################@#BBBBBBBB
+BBBBBB#@@@@@@@@@@@@@@@@@@@@@@#BBW8888WB#@@@@@@@##########BBBBBBBB@#@@@@@@@@@######@@@@##@@#BBBBBBBBB
+BBBBBBBB@@@@@@@@@@@@@@B#BWW88888888888888888888WWBB###@#BBBBBBBBB#@####@@@@@@###@@@@@@@@#WWWWWWWWWWW
+BBBBBBBBB#@@@@@@@@@@@BWWWBWWWWWW88888888888WWWWWWWWWWWW@#BBBBB##@@###@@@@@@@@@@@@@@@@@#WWWWWWWWWWWWW
+BBBBBBBBBBB#@@@@@@@@@BWWWWWWBBBWWWWWWWWWB########BWWWWBB#@@######@@@@##@@@@@@@@@@@@@#WWWWWWWWWWWWWWW
+BBBBBBBBBBBBB#@@@@@@@@BWWWWBBBBB##@##BBW##BBBBBBB##BBBBBB####@@@###BBBBB@@@@@@@@@@@WWWWWWWWWWWWWWWWW
+BBBBBBBBBBBBBBBB#@@@@@@@WWWBBBBBBBBBBBBBB@@@@@@@@@@#######BBBBBBBBBBBBBB#@@@@@@@BWWWWWWWWWWWWWWWWWWW
+BBBBBBBBBBBBBBBBBBB#@@@@@#BBBBBBBBBBBBBBB@@@@@@@@@#BBBBBBBBBB####@@@@@@@@@@@@BWWWWWWWWWWWWWWWWWWWWWW
+BBBBBBBBBBBBBBBBBBBBBBB#@@@@@@@@@@@@@@@@@@@@@@@@@@######@@@@@@@@@@@@@@@#BWWWWWWWWWWWWWWWWWWWWWWWWWWW
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBB#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#BWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBWWWBBBBBWWWWB#@@@@@@#BWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+BBBBBBBBBBBBBBBBBBBBBBBBBBBWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
